@@ -1,16 +1,31 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎓 College Website Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive college website built using **React + Vite** and **Bootstrap 5**.  
+This project showcases a simple and elegant frontend design for educational institutions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🏫 **Home Page Carousel** – Beautiful image slider highlighting campus life.  
+- 📄 **About Page** – Overview of the college and its achievements.  
+- 📞 **Contact Page** – Easy way for visitors to reach the institution.  
+- 🌐 **Responsive Design** – Works smoothly across all screen sizes.  
+- ⚡ **Fast Build** – Powered by Vite for lightning-fast development.  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Collegewebsite
->>>>>>> ac2bead5458d3e2148924d31a4ab202a3e364fc6
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Description |
+|-------------|-------------|
+| **React** | Frontend JavaScript framework |
+| **Vite** | Next-generation build tool for React |
+| **Bootstrap 5** | CSS framework for responsive UI |
+| **HTML5 & CSS3** | Core web technologies |
+| **JavaScript (ES6+)** | Programming logic and interactivity |
+
+---
+
+## 🧩 Folder Structure
+
